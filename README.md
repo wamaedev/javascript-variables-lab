@@ -234,3 +234,4 @@ The final step is to submit your work to Canvas:
 
 - [MDN: Let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 - [MDN: Const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+
